@@ -1,3 +1,4 @@
+/* eslint-disable */
 const config = {
   displayName: 'ooxast-util-citation-plugin',
   preset: '../../../jest.preset.js',
